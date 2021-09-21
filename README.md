@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahilshenoy
+- 👋 Hi, I’m Sahil Shenoy
 - 👀 I’m interested in Technology and Chemistry
 - 🌱 I’m currently learning B.Tech CSE Spec. in Cloud Computing and Automation
 - 📫 How to reach me hello@sahilshenoy.com
